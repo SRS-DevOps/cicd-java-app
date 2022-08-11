@@ -1,2 +1,3 @@
-# cicd-java-app
-CI&amp;CD implementation of Java app
+## DevOps Project   
+
+"DevOps Project - CI/CD with Jenkins Ansible Docker Kubernetes"
